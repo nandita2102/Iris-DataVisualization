@@ -62,5 +62,4 @@ ax.set_title('Petal Length Vs Width')
 ![png](images/petal.png)
 
 In this figure decision boundary between versicolor and virginica can be easily determined.
-
 Hence, using all the features for training is a good choice.
