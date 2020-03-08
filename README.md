@@ -1,6 +1,5 @@
 # Iris-DataVisualization
 
-# Iris Dataset
 Iris flower dataset has 3 species:
 - Setosa
 - Versicolor
